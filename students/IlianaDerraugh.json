@@ -1,0 +1,14 @@
+{
+  "firstName": "Iliana",
+  "lastName": "Derraugh",
+  "nickName": "Iliana",
+  "privateName": false,
+  "picture": "images/IlianaDerraugh.jpg",
+  "privatePicture": false,
+  "email": "iliana.derraugh@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "IlianaDerraugh",
+  "privateGithub": false,
+  "superpower" : "Dog whisperer, sheep whisperer, procrastination",
+  "academicinterests": "History, in particular revolutions and remembrance"
+}
